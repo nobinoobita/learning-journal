@@ -1,0 +1,2 @@
+# learning-journal
+TUGAS 4 MATAKULIAH REVERSE ENGINER
