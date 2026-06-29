@@ -1,14 +1,11 @@
-# learning-journal
-TUGAS 4 MATAKULIAH REVERSE ENGINER
-#
-NAMA  : Ananta Ramadhani
-#
-NIM   : 24.83.1062
-#
-Kelas : 24TK01
-
 # Reverse Engineering Learning Journey
 
+NAMA  : Ananta Ramadhani.
+
+NIM   : 24.83.1062.
+
+Kelas : 24TK01.
+#
 Repositori ini berfungsi sebagai catatan dan jurnal belajar pribadi yang berfokus pada dasar-dasar **Reverse Engineering (RE)** untuk kebutuhan cybersecurity. Dokumen di dalamnya dirancang untuk mendokumentasikan perkembangan pemahaman dari konsep paling fundamental hingga praktik analisis biner secara langsung.
 
 Tujuan utama dari proyek ini adalah mengubah materi teknis yang kompleks menjadi catatan yang lebih mudah dipahami di masa mendatang. Pembahasan di dalam repositori ini mencakup teori dasar arsitektur sistem, bahasa assembly, hingga struktur file biner.
